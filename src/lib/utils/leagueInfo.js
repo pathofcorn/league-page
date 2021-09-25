@@ -26,7 +26,7 @@ export const managers = [
      {
        "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Jason Woolums",
-       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "null", // (optional)
        "bio": "Perpetual overpreparer for every fantasy draft. Does 1,000+ mocks each season. Has set his sights on a Champhionship with Tyreek Hill, Stefon Diggs, Davante Adams, and Calvin Ridley as one solid WR Core.",
        "photo": "/managers/The_Child_aka_Baby_Yoda_(Star_Wars).jpg", // square ratio recommended (no larger than 500x500)
@@ -47,45 +47,45 @@ export const managers = [
      },
      {
        "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Your Name",
+       "name": "Kyler Floyd",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Brooklyn", // (optional)
-       "bio": "Lorem ipsum...",
+       "location": "null", // (optional)
+       "bio": "Kyler & Kyler strong duo for years to come",
        "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-       "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+       "favoriteTeam": "ten", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
        "rival": {
          name: "Rival", // Can be anything (usually your rival's name)
          link: 6, // manager array number within this array, or null to link back to all managers page
          image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
        },
-       "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-       "philosophy": "Your fantasy team's philosophy",
+       "favoritePlayer": 3198, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
+       "philosophy": "I love Derrick Henry, Derrick Henry is my liiiife",
        "tradingScale": 10, // 1 - 10
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
        "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "Your Name",
+       "name": "Mason Brown",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Brooklyn", // (optional)
-       "bio": "Lorem ipsum...",
+       "location": "null", // (optional)
+       "bio": "Favorite for all of last season just to fall short of glory, hoping to find his way to the champhionship this year with a new core of Kamara + Dhop",
        "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-       "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+       "favoriteTeam": "ind", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
        "rival": {
          name: "Rival", // Can be anything (usually your rival's name)
          link: 6, // manager array number within this array, or null to link back to all managers page
          image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
        },
-       "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-       "philosophy": "Your fantasy team's philosophy",
+       "favoritePlayer": 6813, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
+       "philosophy": "Win now, regular season champ or chump?",
        "tradingScale": 10, // 1 - 10
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
