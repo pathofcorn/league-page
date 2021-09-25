@@ -7,8 +7,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Year 2 of our Dynasty League.</p>
-  <p>Exciting year with some stacked teams and some that are already looking to rebuild, check out the power rankings below and be sure to check out the site every week for updates to the blog!</p>
+  <p>Exciting second year of our dynasty league with some stacked teams in Win-Now mode and some that are already looking to rebuild, check out the power rankings below and be sure to check out the site every week for updates to the blog!</p>
   <p>2020 Champion, @Rollingdoinks69 check out the managers section to learn more!</p>
  
 `;
