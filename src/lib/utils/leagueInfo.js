@@ -28,7 +28,7 @@ export const managers = [
        "name": "Jason Woolums",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "null", // (optional)
-       "bio": "Perpetual overpreparer for every fantasy draft. Does 1,000+ mocks each season. Has set his sights on a Champhionship with Tyreek Hill, Stefon Diggs, Davante Adams, and Calvin Ridley as one solid WR Core.",
+       "bio": "Wide Receivers are my whole team.",
        "photo": "/managers/The_Child_aka_Baby_Yoda_(Star_Wars).jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "ind", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -41,7 +41,7 @@ export const managers = [
        "favoritePlayer": 2449, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
        "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-       "philosophy": "Wide Receivers are my life",
+       "philosophy": "Perpetual overpreparer for every fantasy draft. Does 1,000+ mocks each season. Has set his sights on a Champhionship with Tyreek Hill, Stefon Diggs, Davante Adams, and Calvin Ridley as one solid WR Core.",
        "tradingScale": 10, // 1 - 10
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
@@ -50,7 +50,7 @@ export const managers = [
        "name": "Kyler Floyd",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "null", // (optional)
-       "bio": "Kyler & Kyler strong duo for years to come",
+       "bio": "I love Derrick Henry, Derrick Henry is my liiiife",
        "photo": "/managers/kyler.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "ten", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -63,7 +63,7 @@ export const managers = [
        "favoritePlayer": 3198, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
        "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-       "philosophy": "I love Derrick Henry, Derrick Henry is my liiiife",
+       "philosophy": "Kyler + Derrick Henry = GG most weeks.",
        "tradingScale": 10, // 1 - 10
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
@@ -72,7 +72,7 @@ export const managers = [
        "name": "Mason Brown",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "null", // (optional)
-       "bio": "Favorite for all of last season just to fall short of glory, hoping to find his way to the champhionship this year with a new core of Kamara + Dhop",
+       "bio": "Regular Season Favorite",
        "photo": "/managers/mason.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "ind", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -94,7 +94,7 @@ export const managers = [
        "name": "Tyler Broyles",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "null", // (optional)
-       "bio": "Best young wide receiver core in the league, looking to dominate for years to come.",
+       "bio": "Best young wide receiver core in the league",
        "photo": "/managers/diamond.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "ind", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
