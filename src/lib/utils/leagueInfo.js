@@ -29,7 +29,7 @@ export const managers = [
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "null", // (optional)
        "bio": "Perpetual overpreparer for every fantasy draft. Does 1,000+ mocks each season. Has set his sights on a Champhionship with Tyreek Hill, Stefon Diggs, Davante Adams, and Calvin Ridley as one solid WR Core.",
-       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/The_Child_aka_Baby_Yoda_(Star_Wars).jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "ind", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
