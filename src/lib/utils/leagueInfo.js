@@ -7,9 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Big Bots Dynasty League.</p>
   <p>Year 2 of our Dynasty League.</p>
-  <p>2020 Champion, @Rollingdoinks69.</p>
+  <p>Exciting year with some stacked teams and some that are already looking to rebuild, check out the power rankings below and be sure to check out the site every week for updates to the blog!</p>
+  <p>2020 Champion, @Rollingdoinks69 check out the managers section to learn more!</p>
  
 `;
 
